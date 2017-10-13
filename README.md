@@ -6,7 +6,7 @@ Function to find a date in a string using Regular Expression
 
 ### Usage
 
-	$string = "This building was cleaned on the 8th of October 2006 after a huge storm."
+	$string = "This building was cleaned on the 8th of October 2006 after a huge storm.";
 	$date = find_date( $string );
 
 	// Return:
